@@ -1,0 +1,14 @@
+.exp-container{
+    margin: 4rem 0;
+    position: relative;
+}
+.exp-container h5{
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 3rem;
+    margin-top: 15rem;
+    margin-left: 2%;
+    font-family: 'Orbitron';
+    padding-top: 4%;
+}
+

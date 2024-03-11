@@ -1,0 +1,49 @@
+.contact-container h5{
+
+font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 3rem;
+    margin-top: 10rem;
+    color: transparent;
+    padding-top: 4%;
+    font-family: 'Orbitron';
+}
+
+.contact-container{
+    margin-left: 2%;
+}
+
+.contact-1{
+    font-size: 50px;
+    color: rgb(127, 255, 242);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.contact-2{
+    font-size: 25px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+
+}
+
+
+.contact-info{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top:  6rem;
+}
+
+@media(max-width:1024px){
+    .email{
+        font-size: 24px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+}
