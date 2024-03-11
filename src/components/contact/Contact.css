@@ -38,12 +38,57 @@ font-size: 1.5rem;
     margin-top:  6rem;
 }
 
-@media(max-width:1024px){
-    .email{
+
+    .mail-logo{
         font-size: 24px;
         display: flex;
-        justify-content: center;
-        align-items: center;
+        margin-right: 25px;
+        width: 30px;
+        height: 30px;
         
     }
+    .linkedIn-logo{
+        font-size: 24px;
+        display: flex;
+        margin-right: 25px;
+        margin-left: -135px;
+        width: 25px;
+        height: 25px;
+        
+    }
+    .github-logo{
+        font-size: 24px;
+        display: flex;
+        margin-right: 25px;
+        margin-left: -146px;
+        width: 28px;
+        height: 28px;
+        
+    }
+
+.email{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+.linkedin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 24px;
+    margin-top: 15px;
+}
+.github{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 24px;
+    margin-top: 15px;
+
 }
