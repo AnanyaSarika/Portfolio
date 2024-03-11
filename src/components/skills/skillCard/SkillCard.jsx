@@ -6,9 +6,6 @@ const SkillCard = ({title, icon, isActive, onClick}) => {
         <div 
         className={`skills-card ${isActive ? "active" : ""}`}
         onClick={() => onClick()} >
-            <div className="skill-icon">
-                
-            </div>
             <span>{title}</span>
         </div>
     );

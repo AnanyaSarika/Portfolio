@@ -92,3 +92,80 @@ font-size: 1.5rem;
     margin-top: 15px;
 
 }
+
+@media(max-width: 768px){
+    .contact-1{
+        font-size: 24px;
+        color: rgb(127, 255, 242);
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+
+    .contact-2{
+        font-size: 10px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        line-height: 12px;
+       
+    
+    }
+
+    .mail-logo{
+        
+        display: flex;
+        margin-right: 20px;
+        width: 20px;
+        height: 20px;
+        
+    }
+    .linkedIn-logo{
+        
+        display: flex;
+        margin-right: 20px;
+        margin-left: -85px;
+        width: 18px;
+        height: 18px;
+        
+    }
+    .github-logo{
+        
+        display: flex;
+        margin-right: 20px;
+        margin-left: -90px;
+        width: 20px;
+        height: 20px;
+        
+    }
+
+.email{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.linkedin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.github{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 15px;
+    margin-top: 15px;
+
+}
+    
+}
