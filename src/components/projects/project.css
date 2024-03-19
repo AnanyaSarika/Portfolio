@@ -1,6 +1,8 @@
 .project-container{
     margin: 4rem 0;
     position: relative;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .project-container h5{
     font-size: 1.5rem;

@@ -5,7 +5,7 @@ import Banner from './components/Banner';
 import Header from './components/Header';
 import Nav from './components/Nav';
 import Nav2 from './components/Nav2';
-import About from './components/About';
+import About from './components/about/About';
 import Project from './components/projects/Project';
 import Work from './components/work/Work';
 
