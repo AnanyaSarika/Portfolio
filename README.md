@@ -14,6 +14,6 @@ This is a basic portfolio website developed using React.js. It consists of six s
 Here are a few snapshots of the website:
 
 
-![Skills Section]("C:\Users\anany\OneDrive\Desktop\Ananya\portfolio\skills.png")
-![Projects Section]("C:\Users\anany\OneDrive\Desktop\Ananya\portfolio\projects.png")
-![Responsive]("C:\Users\anany\OneDrive\Desktop\Ananya\portfolio\responsive.png")
+![Skills Section]("src\assets\skills.png")
+![Projects Section]("src\assets\projects.png")
+![Responsive]("src\assets\responsive.png")
