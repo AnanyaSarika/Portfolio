@@ -10,7 +10,7 @@ const Banner = () => {
 
     const handleResumeDownload = () => {
         // Replace 'path_to_resume.pdf' with the actual path to your PDF file
-        const fileUrl = 'https://drive.google.com/file/d/1agl_mt2OVOkxdhzIIDWvOIaNNdT8Pb8j/view?usp=drive_link.pdf';
+        const fileUrl = 'https://drive.google.com/file/d/1B7alG4tG9oRFY6osbdQTi4Dpm8CUlmZZ/view?usp=sharing';
 
         // Create an anchor element
         const link = document.createElement('a');
