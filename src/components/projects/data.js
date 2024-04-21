@@ -1,5 +1,23 @@
 export const PROJECT_DATA =[
     {
+        title: "Resume Generator and Parser",
+        skills: ['Skills: ','Python, ','Computer-Vision, ','Machine Learning, ',' Streamlit'],
+        desc:['This project deploys a website where users can either generate their resume or analyze their existing resumes.','With the resume generator, the user can input their details and a basic resume will be generated with the given details.','With the resume parser, the user can provide their resume in the form of pdf and the parser analyzes the resume and provides what jo b role best suits them.','It also provides some suggestions on how to imprive their resumes']
+
+    },
+    {
+        title: "Kidney Stone Detection",
+        skills: ['Skills: ','Python, ','Computer-Vision, ','Machine Learning, ',' Streamlit'],
+        desc:['This project deploys a website where users can input scanned medical images of kidney and with the help of computer vision techniques and machine learning, the model detects the presence of kidney stone. ']
+
+    },
+    {
+        title: "Event Planner Application ",
+        skills: ['Skills: ','Android Studio, ','Java, ','Firebase'],
+        desc:['Developed a mobile based application using Android studio where users can schedule events such as birthday party, wedding, etc according to their needs.','Made use of firebase datastore to store the data given by the user.']
+
+    },
+    {
         title: "Data Classification using CNN",
         skills:['Skills: ','Machine Learning, ',' Python'
         ],
