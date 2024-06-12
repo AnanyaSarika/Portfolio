@@ -1,5 +1,12 @@
 export const PROJECT_DATA =[
     {
+        title: "Vision - The third eye",
+        skills: ['Skills: ','Python, ','Embedded C, ','Machine Learning, ','LLM integration, ',' NLP'],
+        desc:['Final Year Project using embedded C, Python, LLM, and API integration.', 
+        'Vision smart glasses assist the visually impaired, incorporating advanced machine learning and NLP techniques for object detection and AI Voice assistance.','Provides three major functionalities - Scenario Description, Text recognition, Conversational AI']
+
+    },
+    {
         title: "Resume Generator and Parser",
         skills: ['Skills: ','Python, ','Computer-Vision, ','Machine Learning, ',' Streamlit'],
         desc:['This project deploys a website where users can either generate their resume or analyze their existing resumes.','With the resume generator, the user can input their details and a basic resume will be generated with the given details.','With the resume parser, the user can provide their resume in the form of pdf and the parser analyzes the resume and provides what jo b role best suits them.','It also provides some suggestions on how to imprive their resumes']

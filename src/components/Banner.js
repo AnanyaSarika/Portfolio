@@ -1,9 +1,6 @@
 import React from "react";
-import { FaGithub, FaYoutube, FaDribble} from 'react-icons/fa';
 import { TypeAnimation } from "react-type-animation";
-import {motion} from 'framer-motion'
-import {fadeIn} from '../variants';
-import { Button } from "react-scroll";  
+
 import { Link } from 'react-scroll';
 
 const Banner = () => {

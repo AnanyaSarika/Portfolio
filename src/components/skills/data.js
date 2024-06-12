@@ -18,6 +18,7 @@ export const SKILLS=[
         {skill: "Python", percentage:"80%"},
         {skill: "Java", percentage:"60%"},
         {skill: "C Programming", percentage:"60%"},
+        {skill: "Go", percentage:"55%"},
         {skill: "C++", percentage:"50%"},
         {skill: "Terraform HCL", percentage:"20%"}
     ],
@@ -36,6 +37,7 @@ export const SKILLS=[
     title: "Softskills",
     icon:"",
     skills: [
+        {skill: "Communication & collaboration", percentage:"90%"},
         {skill: "Problem Solving", percentage:"80%"},
         {skill: "Presentation", percentage:"75%"},
         {skill: "Creativity", percentage:"70%"},
